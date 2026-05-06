@@ -18,8 +18,7 @@ public:
             }
             i++;
         }
-
-        // 3. Convert digits
+   // 3. Convert digits
         while (i < n && isdigit(s[i])) {
             ans = ans * 10 + (s[i] - '0');
 
