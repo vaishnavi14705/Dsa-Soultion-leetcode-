@@ -16,7 +16,7 @@
 - ☕ Solving problems in **Java**
 - 🎯 Goal: Crack top tech interviews through consistent practice
 - 💡 Currently mastering patterns like Sliding Window, Two Pointers, Prefix Sum, Hashing, and more
-- 🫠 *Humans really made interviews depend on reversing linked lists at 2 AM. Extraordinary civilization.*
+- 🫠  Humans really made interviews depend on reversing linked lists at 2 AM.
 
 ---
 
