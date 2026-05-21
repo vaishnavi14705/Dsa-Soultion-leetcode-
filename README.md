@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Vaishnavi's LeetCode Journey 👩‍💻</h1>
 
 <p align="center">
-  <b>Java · DSA · Problem Solving · Consistency</b>
+  <b>C++ · DSA · Problem Solving · Consistency</b>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/Java-Primary_Language-orange?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/Java-Primary_Language-orange?style=for-the-badge&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Core_Focus-blue?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-Concepts-success?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Problem_Solving-Patterns-purple?style=for-the-badge)
