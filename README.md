@@ -112,9 +112,9 @@
 ---
 
 <p align="center">
-  <i>"Keep coding. Keep learning. One problem at a time."</i> 💻
+  <i>Turning coffee ☕ into code, one LeetCode problem at a time.</i>
 </p>
 
 <p align="center">
-  Made with ☕ and a lot of <code>System.out.println("debug")</code>
+  Built with ❤️, and questionable sleep schedules 🌙
 </p>
