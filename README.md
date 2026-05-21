@@ -1,42 +1,120 @@
+<h1 align="center">🚀 Vaishnavi's LeetCode Journey 👩‍💻</h1>
+
+<p align="center">
+  <b>Java · DSA · Problem Solving · Consistency</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Solving+DSA+Problems+Daily;Java+Developer+in+Progress;LeetCode+%2B+Consistency+%3D+Growth;Keep+Coding+Keep+Learning" alt="Typing SVG" />
+</p>
+
 ---
-name: frontend-design
-description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
-license: Complete terms in LICENSE.txt
+
+## 🌸 About Me
+
+- 👩‍🎓 BTech Student at **SRM University**
+- ☕ Solving problems in **Java**
+- 🎯 Goal: Crack top tech interviews through consistent practice
+- 💡 Currently mastering patterns like Sliding Window, Two Pointers, Prefix Sum, Hashing, and more
+- 🫠 *Humans really made interviews depend on reversing linked lists at 2 AM. Extraordinary civilization.*
+
 ---
 
-This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic "AI slop" aesthetics. Implement real working code with exceptional attention to aesthetic details and creative choices.
+## 📊 LeetCode Stats
 
-The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vaishnavi1476?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
-## Design Thinking
+---
 
-Before coding, understand the context and commit to a BOLD aesthetic direction:
-- **Purpose**: What problem does this interface solve? Who uses it?
-- **Tone**: Pick an extreme: brutally minimal, maximalist chaos, retro-futuristic, organic/natural, luxury/refined, playful/toy-like, editorial/magazine, brutalist/raw, art deco/geometric, soft/pastel, industrial/utilitarian, etc. There are so many flavors to choose from. Use these for inspiration but design one that is true to the aesthetic direction.
-- **Constraints**: Technical requirements (framework, performance, accessibility).
-- **Differentiation**: What makes this UNFORGETTABLE? What's the one thing someone will remember?
+## 📈 Progress Tracker
 
-**CRITICAL**: Choose a clear conceptual direction and execute it with precision. Bold maximalism and refined minimalism both work - the key is intentionality, not intensity.
+| Metric | Value |
+|--------|-------|
+| ✅ Problems Solved | **132+** |
+| 📅 Active Coding Days | **115** |
+| 🔥 Max Streak | **10 Days** |
 
-Then implement working code (HTML/CSS/JS, React, Vue, etc.) that is:
-- Production-grade and functional
-- Visually striking and memorable
-- Cohesive with a clear aesthetic point-of-view
-- Meticulously refined in every detail
+> *Tiny steps. Repeated aggressively. That's basically DSA — and also most human suffering.*
 
-## Frontend Aesthetics Guidelines
+---
 
-Focus on:
-- **Typography**: Choose fonts that are beautiful, unique, and interesting. Avoid generic fonts like Arial and Inter; opt instead for distinctive choices that elevate the frontend's aesthetics; unexpected, characterful font choices. Pair a distinctive display font with a refined body font.
-- **Color & Theme**: Commit to a cohesive aesthetic. Use CSS variables for consistency. Dominant colors with sharp accents outperform timid, evenly-distributed palettes.
-- **Motion**: Use animations for effects and micro-interactions. Prioritize CSS-only solutions for HTML. Use Motion library for React when available. Focus on high-impact moments: one well-orchestrated page load with staggered reveals (animation-delay) creates more delight than scattered micro-interactions. Use scroll-triggering and hover states that surprise.
-- **Spatial Composition**: Unexpected layouts. Asymmetry. Overlap. Diagonal flow. Grid-breaking elements. Generous negative space OR controlled density.
-- **Backgrounds & Visual Details**: Create atmosphere and depth rather than defaulting to solid colors. Add contextual effects and textures that match the overall aesthetic. Apply creative forms like gradient meshes, noise textures, geometric patterns, layered transparencies, dramatic shadows, decorative borders, custom cursors, and grain overlays.
+## ⚔️ Tech Arsenal
 
-NEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.
+<p align="center">
 
-Interpret creatively and make unexpected choices that feel genuinely designed for the context. No design should be the same. Vary between light and dark themes, different fonts, different aesthetics. NEVER converge on common choices (Space Grotesk, for example) across generations.
+![Java](https://img.shields.io/badge/Java-Primary_Language-orange?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Core_Focus-blue?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Concepts-success?style=for-the-badge)
+![Patterns](https://img.shields.io/badge/Problem_Solving-Patterns-purple?style=for-the-badge)
+![Consistency](https://img.shields.io/badge/Consistency-Daily_Practice-red?style=for-the-badge)
 
-**IMPORTANT**: Match implementation complexity to the aesthetic vision. Maximalist designs need elaborate code with extensive animations and effects. Minimalist or refined designs need restraint, precision, and careful attention to spacing, typography, and subtle details. Elegance comes from executing the vision well.
+</p>
 
-Remember: Claude is capable of extraordinary creative work. Don't hold back, show what can truly be created when thinking outside the box and committing fully to a distinctive vision.
+---
+
+## 📚 Topics Covered
+
+| Topic | Status | Key Concepts |
+|-------|:------:|--------------|
+| Array | ✅ | Kadane's Algorithm, Prefix Sum |
+| String | ✅ | Sliding Window, Hashing |
+| Linked List | ✅ | Fast & Slow Pointer |
+| Stack | ✅ | Monotonic Stack |
+| Queue | ✅ | BFS Concepts |
+| Recursion | ✅ | Backtracking |
+| Binary Search | ✅ | Search Space Reduction |
+| HashMap | ✅ | Frequency Count |
+| Two Pointer | ✅ | Optimized Traversal |
+
+---
+
+## 🛠 Repository Structure
+
+```bash
+📂 leetcode-solutions
+ ┣ 📂 Arrays
+ ┣ 📂 Strings
+ ┣ 📂 LinkedList
+ ┣ 📂 Stack
+ ┣ 📂 Queue
+ ┣ 📂 Recursion
+ ┣ 📂 BinarySearch
+ ┗ 📜 README.md
+```
+
+---
+
+## 🎯 Learning Patterns
+
+```
+✦ Sliding Window      →  Subarray / substring problems
+✦ Two Pointers        →  Sorted arrays, pair problems
+✦ Prefix Sum          →  Range sum queries
+✦ Hashing             →  Frequency, lookup in O(1)
+✦ Fast & Slow Pointer →  Cycle detection in linked lists
+✦ Monotonic Stack     →  Next greater / smaller element
+✦ Binary Search       →  Search space reduction
+✦ Backtracking        →  Subsets, permutations, combos
+```
+
+---
+
+## 🌱 Current Focus
+
+- [ ] Hard problems on LeetCode
+- [ ] Dynamic Programming patterns
+- [ ] Graph algorithms (BFS / DFS)
+- [ ] Trees and Tries
+- [ ] Mock interview practice
+
+---
+
+<p align="center">
+  <i>"Keep coding. Keep learning. One problem at a time."</i> 💻
+</p>
+
+<p align="center">
+  Made with ☕ and a lot of <code>System.out.println("debug")</code>
+</p>
