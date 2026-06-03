@@ -118,3 +118,19 @@
 <p align="center">
   Built with ❤️, and questionable sleep schedules 🌙
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
+<!---LeetCode Topics End-->
