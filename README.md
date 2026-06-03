@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Solving+DSA+Problems+Daily;Java+Developer+in+Progress;LeetCode+%2B+Consistency+%3D+Growth;Keep+Coding+Keep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Solving+DSA+Problems+Daily;C+++Developer+in+Progress;LeetCode+%2B+Consistency+%3D+Growth;Keep+Coding+Keep+Learning" alt="Typing SVG" />
 </p>
 
 ---
