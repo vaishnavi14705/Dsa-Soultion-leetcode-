@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
+| [0219-contains-duplicate-ii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -144,4 +145,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
