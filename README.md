@@ -130,6 +130,7 @@
 | [0904-fruit-into-baskets](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,8 +172,13 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
