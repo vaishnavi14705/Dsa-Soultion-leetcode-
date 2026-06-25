@@ -124,6 +124,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -135,6 +136,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -174,6 +176,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
