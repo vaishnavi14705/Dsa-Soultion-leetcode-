@@ -142,6 +142,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0125-valid-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
@@ -198,5 +200,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
