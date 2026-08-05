@@ -131,6 +131,7 @@
 | [0904-fruit-into-baskets](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 ## Divide and Conquer
