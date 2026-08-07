@@ -127,6 +127,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -207,4 +208,5 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
