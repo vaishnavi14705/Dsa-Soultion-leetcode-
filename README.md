@@ -127,6 +127,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -149,6 +150,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
