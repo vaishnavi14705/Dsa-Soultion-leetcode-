@@ -188,6 +188,7 @@
 | [0012-integer-to-roman](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0125-valid-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,4 +226,12 @@
 | ------- |
 | [0018-4sum](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
