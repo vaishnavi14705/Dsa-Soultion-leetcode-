@@ -187,6 +187,7 @@
 | [0006-zigzag-conversion](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
@@ -220,6 +221,7 @@
 | [0018-4sum](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
