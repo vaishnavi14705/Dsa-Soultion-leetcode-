@@ -168,6 +168,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0904-fruit-into-baskets) |
 | [2549-count-distinct-numbers-on-board](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
@@ -188,6 +189,7 @@
 | [0012-integer-to-roman](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
@@ -204,6 +206,7 @@
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -228,6 +231,7 @@
 | ------- |
 | [0018-4sum](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0088-merge-sorted-array) |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -236,4 +240,12 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
