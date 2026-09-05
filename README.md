@@ -211,6 +211,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0012-integer-to-roman) |
 | [2549-count-distinct-numbers-on-board](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 ## Simulation
