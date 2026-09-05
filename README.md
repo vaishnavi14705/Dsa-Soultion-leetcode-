@@ -187,6 +187,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0451-sort-characters-by-frequency) |
@@ -236,10 +237,12 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
