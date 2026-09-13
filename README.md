@@ -130,6 +130,7 @@
 | [0088-merge-sorted-array](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0451-sort-characters-by-frequency) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
