@@ -258,4 +258,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vaishnavi14705/Dsa-Soultion-leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
